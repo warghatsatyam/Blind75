@@ -1,8 +1,12 @@
 # 🧠 Blind 75 LeetCode Challenge – 90 Days War Mode
 
-Welcome to my personal **Blind 75 LeetCode Tracker**, part of my 90-day war mode mission to 3x my salary and become a world-class developer.
+Welcome to my curated **Blind 75 LeetCode Tracker** — a focused effort to level up my Data Structures and Algorithms skills and become a stronger software engineer.
 
-This repository contains my curated solutions to the famous **Blind 75** list — a set of the most essential coding problems asked in top tech interviews.
+Over the next 90 days, I'm dedicating time daily to sharpen my problem-solving, strengthen interview readiness, and explore patterns that appear in real-world tech interviews.
+
+This repository contains clean, well-documented solutions to the essential **Blind 75** problems — widely regarded as the foundational set for coding interviews at top companies.
+
+Let’s grow, one problem at a time 💪
 
 ---
 
