@@ -96,7 +96,7 @@ Stay tuned...
 
 If you’re on your own DSA grind or want to pair for mock interviews, hit me up!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/warghatsatyam)
+- 🌐 [LinkedIn](https://linkedin.com/in/warghatsatyam)
 - 🧑‍💻 [GitHub](https://github.com/warghatsatyam)
 
 ---
